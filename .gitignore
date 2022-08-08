@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Binary data files 
+*.gz
+*.tar
+aclImdb/
+
 # C extensions
 *.so
 
